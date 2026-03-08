@@ -1,0 +1,13 @@
+# Build artifacts
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Data persistent files (do not commit binary memory databases)
+data/*.bin
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db

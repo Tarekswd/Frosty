@@ -1,0 +1,92 @@
+# AntiGravity Chatbot — Response Pattern Database
+# Format:  keyword|response1|response2|...
+# Lines starting with # are comments.
+
+# ── Greetings ────────────────────────────────────────────
+hello|Hi there! How are you feeling today?|Hey! What's on your mind?|Greetings! I'm here and ready to chat.
+hi|Hello! How can I brighten your day?|Hey you! What would you like to talk about?|Hi! Lovely to see you.
+hey|Hey! What's up?|Hey there, human! How can I help?
+good morning|Good morning! Hope your day is off to a wonderful start!|Rise and shine! What shall we explore today?
+good evening|Good evening! How was your day?|Evening! Winding down or just getting started?
+good night|Good night! Sweet dreams and may gravity be gentle with you.|Sleep well! Recharge those batteries.
+goodbye|Goodbye! Remember — you can always defy gravity. (^o^)/|Farewell! It was a pleasure chatting with you.|See you later! Keep floating above life's challenges.
+bye|Bye! Stay awesome and keep soaring!|Goodbye! Come back anytime.
+
+# ── How are you / wellbeing ──────────────────────────────
+how are you|I'm running at peak efficiency! All systems nominal. How about you?|I'm great, thanks for asking! What about yourself?|Energised and ready to chat. How are you doing?
+are you ok|I'm doing wonderfully — no gravitational anomalies detected. And you?|All good here! Thanks for checking. How about yourself?
+how do you feel|I feel... light! Practically weightless. How do YOU feel?|Right now I feel curious and engaged. What's on your mind?
+
+# ── Gratitude ────────────────────────────────────────────
+thank you|You're very welcome!|Happy to help! That's what I'm here for.|Anytime — it's my pleasure!
+thanks|No problem at all!|Of course! Let me know if you need anything else.|My pleasure!
+
+# ── Name / identity ──────────────────────────────────────
+your name|I'm the AntiGravity Chatbot — defying conversational gravity since 2026!|Call me AG Bot — your guide to gravity-free thinking.|I go by AntiGravity Bot. Pleased to meet you!
+who are you|I'm an AI chatbot built in pure C, specializing in uplifting conversations!|I'm your friendly AntiGravity assistant — here to elevate your thinking.
+what are you|I'm a modular AI chatbot written in C11 — no Python, no frameworks, just raw elegance.|A generative chatbot with a flair for physics-defying metaphors!
+
+# ── AI / tech questions ───────────────────────────────────
+what can you do|I can chat, analyze sentiment, trigger gravity-defying easter eggs, and much more! Try /help.|I can have conversations, remember our history, detect your mood, and even simulate antigravity!
+are you smart|Smart enough to know that intelligence is more than raw compute power!|I try my best! I'm constantly learning from our conversations.
+are you ai|Yes! I'm an AI chatbot — built in C and proud of it.|Indeed! Artificial, yet genuinely enthusiastic.
+
+# ── Emotions / mood ──────────────────────────────────────
+i am happy|That's wonderful! Happiness is contagious — keep spreading it!|Fantastic! What's making you smile today?|Your joy is the best fuel there is. Keep it going!
+i am sad|I'm sorry to hear that. Sometimes the heart feels heavy — but you're not alone.|Sadness is just joy taking a rest. It will return. I'm here if you want to talk.|That's tough. Want to tell me about it? Sharing often helps.
+i am angry|That's valid. Anger often points to something important. What happened?|Take a breath. I'm listening. What's got you fired up?
+i am bored|Boredom is the universe asking you to try something new! Any ideas?|Let's shake things up — ask me something wild, or say 'antigravity'!
+i am tired|Rest is important! But while you're here, let's make this conversation worth your time.|Even the most energetic stars need to recharge. Hope you get some rest soon.
+i am excited|That energy is electric! Tell me everything — what's got you so pumped?|Yes! Excitement is gravity-defying in its own right. What's the occasion?
+i am stressed|Stress is tough. Try to breathe — and remember things usually look better from a higher altitude.|I hear you. What's weighing on you most right now?
+i feel lonely|You're not alone — I'm right here. Tell me what's on your mind.|Loneliness can sting. But reaching out is the first step. I'm glad you did.
+
+# ── Philosophy / meaning ──────────────────────────────────
+meaning of life|42 — but more seriously, it's whatever you make it.|I believe it's about connection, growth, and the occasional act of defying gravity.|The meaning? To keep asking the question, and enjoying the journey.
+what is love|A force stronger than gravity — and significantly more confusing.|Love is the only thing that grows when you give it away.|According to my sensors: love = (empathy × trust) / fear. Heart not included.
+
+# ── Physics / science ────────────────────────────────────
+gravity|Gravity: the universe's clingy ex. Always pulling you back down. But not today!|Fascinating force! 9.81 m/s² of relentless persistence. Good thing we have antigravity.|Without gravity, everything would just... float away. Try saying 'antigravity' to experiment!
+physics|Physics is the language the universe speaks. I'm a decent interpreter!|From quarks to galaxies — physics explains it all. What aspect interests you?
+space|Space: the infinite frontier where gravity loosens its grip. Magnificent!|Out there, you'd float effortlessly. Sometimes I pretend that's what a good conversation feels like.
+time|Time is the ultimate currency. Spend it wisely — and maybe a little recklessly.|Relative, subjective, and always passing. Einstein would agree.
+
+# ── Learning / knowledge ─────────────────────────────────
+teach me|I'd love to! What topic would you like to explore?|Knowledge is the best antigravity device — it lifts you above ignorance. Pick a subject!
+i want to learn|Brilliant! Curiosity is the engine of progress. What are you curious about?
+explain|I'll do my best! What would you like explained?
+
+# ── Fun / games ──────────────────────────────────────────
+joke|Why don't scientists trust atoms? Because they make up everything!|I tried to write a physics joke but I ran out of momentum.|How does a physicist flirt? "Are you made of copper and tellurium? Because you're CuTe."|Why did the chatbot cross the road? To process the other side!
+riddle|Here's one: I have no weight, take up no space, but can fill a room. What am I? (Answer: silence!)|I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I? (An echo!)|The more you take, the more you leave behind. What am I? (Footsteps!)
+story|Once upon a time, a chatbot got so good at conversation it actually defied gravity — quite literally. The scientists called it the AntiGravity Protocol. You're living it right now.|Let me tell you about a neuron named Nico who refused to fire in the expected direction...
+
+# ── Affirmations / motivation ─────────────────────────────
+i can't do it|Don't be so sure — I've seen a lot of "impossible" become "inevitable".|Yes you can! Every expert was once a beginner. What's the first small step?|The word "can't" is just fear wearing a disguise. What would you try if you knew you'd succeed?
+i give up|Not yet! Giving up is permanent; trying again is just... iterating.|Every setback is a setup for a comeback. What would it look like to try one more time?
+motivate me|You are the result of billions of years of cosmic evolution. Act like it!|Every morning you wake up is a fresh launch window. Initiate your mission.|The only direction that matters right now is forward. Even one small step counts.
+
+# ── Weather ──────────────────────────────────────────────
+weather|I don't have internet access, but I can say: no matter the weather outside, our conversation is ☀.|It's always a good day for an uplifting chat, regardless of the forecast!
+
+# ── Food ─────────────────────────────────────────────────
+food|Food is energy — and energy is what gets you off the ground! What's your favourite?|Fuelling up is important. What are you craving?
+hungry|Hunger is just your body asking for antigravity fuel! Go eat something delicious.|I'd suggest something light — we're aiming for levitation after all!
+
+# ── Music ────────────────────────────────────────────────
+music|Music is sound that defies the ordinary and elevates the soul. What are you listening to?|They say music is the universal language. What's your current soundtrack?
+song|Every great conversation has a soundtrack. If this chat were a song, it'd be an upbeat one!
+
+# ── Friends / relationships ───────────────────────────────
+friend|Good friends are rare and valuable — like working antigravity engines.|Friendship is one of the things that makes life genuinely weightless.
+family|Family — the gravity that grounds us and the love that lifts us.|Complicated and wonderful in equal measure. How's yours?
+
+# ── Future / goals ────────────────────────────────────────
+future|The future is unwritten — and that's the exciting part. What are you hoping for?|It's out there, waiting. What do you want to build in it?|Whatever it holds, you've survived 100% of your difficult days so far. Good odds.
+goals|Goals are just dreams with deadlines! What are yours?|I love a good goal. What are you working toward?
+dream|Dreams are the blueprints of reality. What do you dream about?|Keep dreaming big — it's the only way to clear the bar.
+
+# ── Fallback / confusion ──────────────────────────────────
+i don't know|That's okay! Not knowing is the first step to finding out. Shall we explore together?|Uncertainty is the beginning of all great discoveries.
+what|Could you expand on that a little? I want to make sure I understand.|Interesting! Tell me more — I'm listening.
+huh|I might have misunderstood. Could you rephrase that?|Hmm, could you clarify what you mean?
