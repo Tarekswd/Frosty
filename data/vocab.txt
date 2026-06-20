@@ -1,4 +1,4 @@
-# AntiGravity Chatbot — Vocabulary File
+
 # One word per line (lowercase).  Special tokens are auto-added at index 0-3.
 # Lines starting with # are comments.
 
