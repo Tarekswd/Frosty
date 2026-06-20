@@ -1,4 +1,4 @@
-# AntiGravity Chatbot — Response Pattern Database
+
 # Format:  keyword|response1|response2|...
 # Lines starting with # are comments.
 
